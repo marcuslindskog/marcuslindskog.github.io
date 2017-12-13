@@ -49,6 +49,3 @@ Juslin, P., Nilsson, H., Winman, A., & Lindskog, M. (2011). Reducing cognitive b
 Lindskog, M., Winman, A., & Juslin, P. (2013). Is it time Bayes went fishing? Bayesian probabilistic reasoning in a category learning task. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 906-911). Presented at the The 35th annual conference of the cognitive science society, Berlin.
 
 Lindskog, M., Winman, A., & Juslin, P. (2013). Effects of response and presentation format on measures of approximate number system acuity. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 2908-2913). Presented at the The 35th annual conference of the cognitive science society, Berlin.Journal Articles
-
-
-I'm a senior researcher at the [Uppsala Child and Babylab](http://www.babylab.se) at the [Department of Psychology, Uppsala University](http://www.psyl.uu.se)
