@@ -25,7 +25,7 @@ description: Researcher in Cognitive Development
 navbar-links:
   News:
   Teaching:
-  Publications:
+  Publications: "publications"
   Data:
   About Me: "aboutme"
 
