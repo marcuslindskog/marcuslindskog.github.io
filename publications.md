@@ -5,6 +5,10 @@ title: Publications
 
 # Peer reviewed journal articles:
 
+Gredebäck, G., Lindskog, M., Juvrud, J., Green, D., & Marciszko, C. (2018). Action prediction
+allows hypothesis testing via internal forward models. *Frontiers in Psychology* 9:290. doi:
+10.3389/fpsyg.2018.00290
+
 Kayhan, E., Gredebäck, G., & Lindskog, M. (2017). Infants distinguish between two events based on their relative likelihood. *Child Development.* doi:10.1111/cdev.12970 
 
 
