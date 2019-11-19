@@ -2,9 +2,10 @@
 
 # Name of website
 title: Marcus Lindskog
+subtitle: Research in Learning and Cognition
 
 # Short description of your site
-description: Researcher
+description: Research in Learning and Cognition
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
