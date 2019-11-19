@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@marcuslindskog 
-66
-2.2k6.8kdaattali/beautiful-jekyll
- Code Issues 21 Pull requests 7 Actions Security Insights
-beautiful-jekyll/_config.yml
-@bangjunyoung bangjunyoung Add support for customizable date format (#533)
-96c2508 on 14 Aug
-@daattali@OCram85@VincentTam@eugenius1@lrdodge@jamesonzimmer@epwalsh@OrKoN@npes87184@kendaleiv@vietanhdev@tony-ho@XNerv@TheRealBenForce@rtlee9@kootenpv@jennydaman@hristoyankov@hugo-ma-alves@hkhanna@JosemyDuarte@csarigoz@bryanbritten@bangjunyoung@abelcheung@mashed-potatoes
-257 lines (212 sloc)  6.93 KB
-  
 # --- General options --- #
 
 # Name of website
