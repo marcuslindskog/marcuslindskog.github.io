@@ -2,10 +2,10 @@
 
 # Name of website
 title: Marcus Lindskog
-subtitle: Behavioral and Data Scientist | R
+subtitle: Cognitive and Data Scientist | R
 
 # Short description of your site
-description: Behavioral and Data Scientist | R
+description: Cognitive and Data Scientist | R
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: Behavioral and Data Scientist | R
 # List of links in the navigation bar
 navbar-links:
   News:
-  Publications: "publications"
+  Scientific Publications: "publications"
   Projects: "projects"
   About Me: "aboutme"
 
@@ -61,7 +61,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Marcus Lindskog
-  email: "marcus.lindskog@psyk.uu.se"
+  email: "marcus.lindskog@gmail.com"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,12 +69,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "marcus.lindskog@psyk.uu.se"
+  email: "marcus.lindskog@gmail.com"
 # facebook: deanattali
   github: marcuslindskog
   twitter: lindskog_m
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: marcuslindskog
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -89,7 +89,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
