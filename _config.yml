@@ -22,7 +22,7 @@ description: Cognitive and Data Scientist | R
 # List of links in the navigation bar
 navbar-links:
   News:
-  Scientific Publications: "publications"
+  Publications: "publications"
   Projects: "projects"
   About Me: "aboutme"
 

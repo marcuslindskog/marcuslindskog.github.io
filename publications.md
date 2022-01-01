@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+# Scientific publications
+
 Schröder,, E., Gredebäck, G., Gunnarsson, J., & **Lindskog, M.** (2019). Play Enhances Visual
 Perception in Infancy – an Active Training Study. *Developmental Science.* Manuscript accepted for
 publication.
@@ -72,4 +74,4 @@ Lindskog M., Winman A., & Juslin P. (2013) Are there rapid feedback effects on A
 
 **Lindskog, M.**, Winman, A., & Juslin, P. (2013). Effects of response and presentation format on measures of approximate number system acuity. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 2908-2913). Presented at the The 35th annual conference of the cognitive science society, Berlin.Journal Articles
 
-Juslin, P., Nilsson, H., Winman, A., & **Lindskog, M.** (2011). Reducing cognitive biases in probabilistic reasoning by the use of logarithm formats. *Cognition, 120,* 248-267. doi:10.1016/j.cognition.2011.05.004. 
+Juslin, P., Nilsson, H., Winman, A., & **Lindskog, M.** (2011). Reducing cognitive biases in probabilistic reasoning by the use of logarithm formats. *Cognition, 120,* 248-267. doi:10.1016/j.cognition.2011.05.004. | [.PDF](pdf/publications/Juslin_Nilsson_Winman_Lindskog_2011_Cognition.pdf) | 
