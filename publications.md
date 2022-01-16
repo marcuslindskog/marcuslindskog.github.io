@@ -36,42 +36,42 @@ allows hypothesis testing via internal forward models. *Frontiers in Psychology*
 
 Kayhan, E., Gredebäck, G., & **Lindskog, M.** (2017). Infants distinguish between two events based on their relative likelihood. *Child Development.* doi:10.1111/cdev.12970 
 
-van den Berg, R., **Lindskog, M.**, Poom, L., & Winman, A. (2017). Recent is more: a negative time-order effect in non-symbolic numerical judgment. *Journal of Experimental Psychology: Human Perception and Performance, 43,* 1084-1097.
+van den Berg, R., **Lindskog, M.**, Poom, L., & Winman, A. (2017). Recent is more: a negative time-order effect in non-symbolic numerical judgment. *Journal of Experimental Psychology: Human Perception and Performance, 43,* 1084-1097.([.PDF](pdf/publications/vandenBerg_Lindskog_Poom_Winman_2017_JEP_HPP.pdf))
 
-Eriksson, K., & **Lindskog, M.** (2017). Encoding of Numerical Information in Memory: Magnitude or Nominal? *Journal of Numerical Cognition, 3,* 58-76.
+Eriksson, K., & **Lindskog, M.** (2017). Encoding of Numerical Information in Memory: Magnitude or Nominal? *Journal of Numerical Cognition, 3,* 58-76.([.PDF](pdf/publications/Eriksson_Lindskog_2017_JNC.pdf))
 
-**Lindskog, M.**, Winman, A., & Poom, L. (2017). Individual differences in nonverbal number skills predict math anxiety. *Cognition, 159,* 156-162. 
+**Lindskog, M.**, Winman, A., & Poom, L. (2017). Individual differences in nonverbal number skills predict math anxiety. *Cognition, 159,* 156-162. ([.PDF](pdf/publications/Lindskog_Winman_Poom_2017_Cognition.pdf))
 
-Gottwald, J. M., de Bortoli Vizioli, A., **Lindskog, M.**, Nystr ̈om, P., Ekberg, T., von Hofsten, C. & Gredebäck, G. (2017). Infants Prospectively Control Reaching Based on the Difficulty of Future Actions: To What Extent Can Infants? Multiple-Step Actions Be Explained by Fitts’ Law? *Developmental Psychology,* 53, 4-12.
+Gottwald, J. M., de Bortoli Vizioli, A., **Lindskog, M.**, Nystr ̈om, P., Ekberg, T., von Hofsten, C. & Gredebäck, G. (2017). Infants Prospectively Control Reaching Based on the Difficulty of Future Actions: To What Extent Can Infants? Multiple-Step Actions Be Explained by Fitts’ Law? *Developmental Psychology,* 53, 4-12.([.PDF](pdf/publications/Gottwald_et_al_2017_DevPsy.pdf))
 
-**Lindskog, M.**, Winman, A., & Poom, L. (2016). Arithmetic training does not improve approximate number system acuity. *Frontiers in Psychology,* 7:1634.
+**Lindskog, M.**, Winman, A., & Poom, L. (2016). Arithmetic training does not improve approximate number system acuity. *Frontiers in Psychology,* 7:1634. ([.PDF](pdf/publications/Lindskog_Winman_Poom_2016_Frontiers.pdf))
 
-Gottwald, J. M., Achermann, S., Marciszko, C., **Lindskog, M.**, & Gredebäck, G. (2016). An embodied account of early executive function development: Prospective motor control in infancy is related to inhibition and working memory. *Psychological Science, 27,* 1600-1610. 
+Gottwald, J. M., Achermann, S., Marciszko, C., **Lindskog, M.**, & Gredebäck, G. (2016). An embodied account of early executive function development: Prospective motor control in infancy is related to inhibition and working memory. *Psychological Science, 27,* 1600-1610. ([.PDF](pdf/publications/Gottwald_Achermann_Marciszko_Lindskog_Gredeb�ck_2016_PsySci.pdf))
 
-**Lindskog, M.** & Winman, A. (2016). No evidence of learning in non-symbolic numerical tasks - A comment on Park & Brannon (2014). *Cognition, 150,* 243-251. 
+**Lindskog, M.** & Winman, A. (2016). No evidence of learning in non-symbolic numerical tasks - A comment on Park & Brannon (2014). *Cognition, 150,* 243-251. ([.PDF](pdf/publications/Lindskog_Winman_2016_Cognition.pdf))
 
-**Lindskog, M.**, Kerimi, N., Winman, A., & Juslin, P. (2015). A Swedish validation of the Berlin Numeracy test. *Scandinavian Journal of Psychology, 56,* 132-139. doi 10.1111/sjop.12189. 
+**Lindskog, M.**, Kerimi, N., Winman, A., & Juslin, P. (2015). A Swedish validation of the Berlin Numeracy test. *Scandinavian Journal of Psychology, 56,* 132-139. doi 10.1111/sjop.12189.  ([.PDF](pdf/publications/Lindskog_Kerimi_Winman_Juslin_2015_SJoP.pdf))
 
-Juslin, P., **Lindskog, M.**, &, Mayerhofer, B. (2015). Is there something special with probabilities? - Insight vs. computational ability in multiple risk integration. *Cognition, 136,* 282-303.
+Juslin, P., **Lindskog, M.**, &, Mayerhofer, B. (2015). Is there something special with probabilities? - Insight vs. computational ability in multiple risk integration. *Cognition, 136,* 282-303. ([.PDF](pdf/publications/Juslin_Lindskog_Mayerhofer_2015_Cognition.pdf))
 
-**Lindskog, M.** (2015). Where did that come from? – Identifying the source of a sample. *The Quarterly Journal of Experimental Psychology, 68,* 499-522. doi: 10.1080/17470218.2014.959534. 
+**Lindskog, M.** (2015). Where did that come from? – Identifying the source of a sample. *The Quarterly Journal of Experimental Psychology, 68,* 499-522. doi: 10.1080/17470218.2014.959534. ([.PDF](pdf/publications/Lindskog_2015_QJEP.pdf))
 
-Winman, A., Juslin, P., **Lindskog, M.**, Nilsson, H., & Kerimi, N. (2014). The role of ANS-acuity and Numeracy for the calibration and the coherence of subjective probability judgments. *Frontiers in Psychology, 5:851.* doi: 10.3389/fpsyg.2014.00851.
+Winman, A., Juslin, P., **Lindskog, M.**, Nilsson, H., & Kerimi, N. (2014). The role of ANS-acuity and Numeracy for the calibration and the coherence of subjective probability judgments. *Frontiers in Psychology, 5:851.* doi: 10.3389/fpsyg.2014.00851. ([.PDF](pdf/publications/Winman_Juslin_Lindskog_Nilsson_Kerimi_2014_Frontiers.pdf))
 
-**Lindskog, M.**, Winman, A., & Juslin, P. (2014). The association between higher education and approximate number system acuity. *Frontiers in Psychology, 5:462.* doi: 10.3389/fpsyg.2014.00462.
+**Lindskog, M.**, Winman, A., & Juslin, P. (2014). The association between higher education and approximate number system acuity. *Frontiers in Psychology, 5:462.* doi: 10.3389/fpsyg.2014.00462. ([.PDF](pdf/publications/Lindskog_Winman_Juslin_2014_Frontiers.pdf))
 
-**Lindskog, M.** & Winman, A. (2014). Are all data created equal?- Exploring some boundary conditions for a lazy intuitive statistician. *PLOS One*, 9(5): e97686. doi:10.1371/journal.pone.0097686. 
+**Lindskog, M.** & Winman, A. (2014). Are all data created equal?- Exploring some boundary conditions for a lazy intuitive statistician. *PLOS One*, 9(5): e97686. doi:10.1371/journal.pone.0097686.  ([.PDF](pdf/publications/Lindskog_Winman_2014_PlosOne.pdf))
 
-**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Calculate or wait: Is man an eager or a lazy intuitive statistician?, *Journal of Cognitive Psychology, 25,* 994-1014.
+**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Calculate or wait: Is man an eager or a lazy intuitive statistician?, *Journal of Cognitive Psychology, 25,* 994-1014. ([.PDF](pdf/publications/Lindskog_Winman_Juslin_2013_JoCP.pdf))
 
-**Lindskog, M.**, Winman, A., Juslin, P., & Poom, L. (2013). Measuring acuity of the Approximate Number System reliably and validly: The evaluation of an adaptive test procedure. *Frontiers in Cognition. 4:510.* doi: 10.3389/fpsyg.2013.00510.
+**Lindskog, M.**, Winman, A., Juslin, P., & Poom, L. (2013). Measuring acuity of the Approximate Number System reliably and validly: The evaluation of an adaptive test procedure. *Frontiers in Cognition. 4:510.* doi: 10.3389/fpsyg.2013.00510. ([.PDF](pdf/publications/Lindskog_Winman_Juslin_Poom_2013_Frontiers.pdf))
 
-Lindskog M., Winman A., & Juslin P. (2013) Are there rapid feedback effects on Approximate Number System acuity? *Frontiers in Human Neuroscience. 7:270.* doi:10.3389/fnhum.2013.00270. 
+Lindskog M., Winman A., & Juslin P. (2013) Are there rapid feedback effects on Approximate Number System acuity? *Frontiers in Human Neuroscience. 7:270.* doi:10.3389/fnhum.2013.00270. ([.PDF](pdf/publications/Lindskog_Winman_Juslin_2013_Frontiers.pdf))
 
-**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Näıve point estimation. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 39,* 782-800. doi:10.1037/a0029670.
+**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Näıve point estimation. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 39,* 782-800. doi:10.1037/a0029670. ([.PDF](pdf/publications/Lindskog_Winman_Juslin_2013_JEP_LMC.pdf))
 
-**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Is it time Bayes went fishing? Bayesian probabilistic reasoning in a category learning task. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 906-911). Presented at the The 35th annual conference of the cognitive science society, Berlin.
+**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Is it time Bayes went fishing? Bayesian probabilistic reasoning in a category learning task. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 906-911). Presented at the The 35th annual conference of the cognitive science society, Berlin.[.PDF](pdf/publications/Lindskog_Winman_Juslin_2013a_CogScipdf.pdf))
 
-**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Effects of response and presentation format on measures of approximate number system acuity. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 2908-2913). Presented at the The 35th annual conference of the cognitive science society, Berlin.Journal Articles
+**Lindskog, M.**, Winman, A., & Juslin, P. (2013). Effects of response and presentation format on measures of approximate number system acuity. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th annual conference of the cognitive science society* (pp. 2908-2913). Presented at the The 35th annual conference of the cognitive science society, Berlin.Journal Articles ([.PDF](pdf/publications/Lindskog_Juslin_Winman_2013b_CogSci.pdf))
 
 Juslin, P., Nilsson, H., Winman, A., & **Lindskog, M.** (2011). Reducing cognitive biases in probabilistic reasoning by the use of logarithm formats. *Cognition, 120,* 248-267. doi:10.1016/j.cognition.2011.05.004. ([.PDF](pdf/publications/Juslin_Nilsson_Winman_Lindskog_2011_Cognition.pdf))
