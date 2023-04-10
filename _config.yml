@@ -2,10 +2,10 @@
 
 # Name of website
 title: Marcus Lindskog
-subtitle: Cognitive and Data Scientist | R
+subtitle: Cognitive and Data Scientist | R | Python
 
 # Short description of your site
-description: Cognitive and Data Scientist | R
+description: Cognitive and Data Scientist | R | Python
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,9 +21,9 @@ description: Cognitive and Data Scientist | R
 
 # List of links in the navigation bar
 navbar-links:
-  News:
+  CV: "cv"
   Publications: "publications"
-  Projects: "projects"
+  Project Portfolio: "projects"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
