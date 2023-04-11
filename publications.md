@@ -4,6 +4,21 @@ title: Publications
 ---
 
 # Scientific publications
+46. Rawlings, A. M., Niemivirta, M., Korhonen, J., **Lindskog, M.**, Tuominen, H., & Mononen, R. (2023). Achievement emotions and arithmetic fluency–Development and parallel processes during the early school years. *Learning and Instruction, 86,* 101776.([.PDF](pdf/publications/Rawlings_et_al_2023_LaI.pdf)
+
+45. Tu, H. F., **Lindskog, M.**, & Gredebäck, G. (2022). Attentional control is a stable construct in infancy but not steadily linked with self-regulatory functions in toddlerhood. *Developmental Psychology, 58*(7), 1221.([.PDF](pdf/publications/Tu_et_al_2022_DevPsych.pdf)
+
+44. Throndsen, T. U., **Lindskog, M.**, Niemivirta, M., & Mononen, R. (2022). Does mathematics anxiety moderate the effect of problem difficulty on cognitive effort?. *Scandinavian Journal of Psychology, 63*(6), 601-608.([.PDF](pdf/publications/Throndsen_et_al_2022_SJOP.pdf)
+
+43. Gredebäck, G., Hall, J., & **Lindskog, M.** (2022). Fluid intelligence in refugee children. A cross-sectional study of potential risk and resilience factors among Syrian refugee children and their parents. *Intelligence, 94,* 101684.([.PDF](pdf/publications/Gredebäck_et_al_2022_Intelligence.pdf)
+
+42. Viktorsson, C., **Lindskog, M.**, Li, D., Tammimies, K., Taylor, M. J., Ronald, A., & Falck‐Ytter, T. (2022). Infants’ sense of approximate numerosity: Heritability and link to other concurrent traits. *Developmental Science,* e13347.([.PDF](pdf/publications/Viktorsson_et_al_2022_DevSci.pdf)
+
+41. Peltonen, K., Gredebäck, G., Pollak, S. D., **Lindskog, M.**, & Hall, J. (2022). The role of maternal trauma and discipline types in emotional processing among Syrian refugee children. *European Child & Adolescent Psychiatry,* 1-9.([.PDF](pdf/publications/Peltonen_et_al_2022_ECAP.pdf)
+    
+40. Gerbrand, A., Gredebäck, G., Hedenius, M., Forsman, L., & **Lindskog, M**. (2022). Statistical learning in infancy predicts vocabulary size in toddlerhood. *Infancy, 27*(4), 700-719.([.PDF](pdf/publications/Gerbrand_et_al_2022_Infancy.pdf)
+
+39. Astor, K., **Lindskog, M.**, Juvrud, J., Namgyel, S. C., Wangmo, T., Tshering, K., & Gredebäck, G. (2022). Maternal postpartum depression impacts infants’ joint attention differentially across cultures. *Developmental psychology*. doi:10.1037/dev0001413.([.PDF](pdf/publications/Astor_et_al_2022_Dev_Psych.pdf)
 
 38. Tu, H.-F., Skalkidou, A., **Lindskog, M.**, & Gredebäck, G. (2021). Maternal childhood trauma and perinatal distress are related to infants’ focused attention from 6 to 18 months. *Scientific Reports, 11*(1), 24190. https://doi.org/10.1038/s41598-021-03568-2 ([.PDF](pdf/publications/Tu_et_al_2021.pdf))
 
