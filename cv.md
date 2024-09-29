@@ -4,7 +4,8 @@ title: Curriculum Vitae
 ---
 
 ### Work experience
-* 2023-02 -- Present: **Product Analytics Developer at Funnel**
+* 2024-09 -- Present: **Senior Scientist at FOI**
+* 2023-02 -- 2024-09: **Product Analytics Developer at Funnel**
   * As a Developer in Product Analytics, I use advanced data analytics in R, Python, and SQL to understand our users behaviour.
 
 * 2021-08 -- 2023-02: **Scientific Product Owner at Tobii**

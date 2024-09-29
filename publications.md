@@ -4,6 +4,16 @@ title: Publications
 ---
 
 # Scientific publications
+
+## Book chapters
+
+1. Derreumaux, Y., Bergh, R., **Lindskog, M.** & Hughes, B. (2023). Group-Motivated Sampling: From Skewed Experiences to Biased Evaluations. In P. Juslin, K. Fiedler, & J. Denrell (Eds.), *Sampling in Judgment and Decision Making.* (pp. 417–434). (2023). Cambridge University press.
+
+## Journal articles
+48. Gerbrand, A., Gredebäck G. &  **Lindskog, M.** (2023) Recognition of small numbers in subset knowers Cardinal knowledge in early childhood. *Royal Society Open Science,* 10:230474. ([.PDF](pdf/publications/Gerbrand_et_al_2023_RSOS.pdf)
+
+47. Gredebäck, G., **Lindskog, M.** &  Hall, J. (in press). Poor maternal mental health is associated with a low degree of proactive control in refugee children. *The Quarterly Journal of Experimental Psychology*. ([.PDF](pdf/publications/Gredeback_et_al_2023_QJEP.pdf)
+
 46. Rawlings, A. M., Niemivirta, M., Korhonen, J., **Lindskog, M.**, Tuominen, H., & Mononen, R. (2023). Achievement emotions and arithmetic fluency–Development and parallel processes during the early school years. *Learning and Instruction, 86,* 101776.([.PDF](pdf/publications/Rawlings_et_al_2023_LaI.pdf)
 
 45. Tu, H. F., **Lindskog, M.**, & Gredebäck, G. (2022). Attentional control is a stable construct in infancy but not steadily linked with self-regulatory functions in toddlerhood. *Developmental Psychology, 58*(7), 1221.([.PDF](pdf/publications/Tu_et_al_2022_DevPsych.pdf)
