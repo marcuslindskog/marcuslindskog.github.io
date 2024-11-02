@@ -11,9 +11,10 @@ The tools used in the respective projects are indicated by an icon. I primarily 
 
 ### Scientific projects
 * [Balloon Analogue Risk Task](https://github.com/marcuslindskog/scientific_projects/tree/master/BART) -  ![Python-logo](img/python.png)
+* [Approximate Number System Studio](https://github.com/marcuslindskog/scientific_projects/tree/master/ANSStudio) - ![MATLAB logo](img/matlab.png)
 
 ### Teaching and Lecture materials
-* [R for Psychology Research](https://github.com/marcuslindskog/teaching_lectures/tree/main/R%20for%20Psychology%20Research) - ![R-logo]
+* [R for Psychology Research](https://github.com/marcuslindskog/teaching_lectures/tree/main/R%20for%20Psychology%20Research) - ![R-logo](img/r.png)
 <!-- ### Data science projects -->
 
 <!-- ### Coding projects
